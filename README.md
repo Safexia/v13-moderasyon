@@ -1,4 +1,5 @@
 # V13-MODERASYON BOTU
-alın kullanın işte ufak tefek hataları var çözün kullanın 
+
+Ufak Tefek Çözmeniz Gereken Hatalar Vardır. Bir Sorun Veya Destek İçin Sunucumuzdan Bizlerle İletişime Geçebilirsiniz.
 
 https://discord.js/codeartz
